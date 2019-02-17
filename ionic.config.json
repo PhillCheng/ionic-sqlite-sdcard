@@ -1,0 +1,7 @@
+{
+  "name": "ionic-sqllite-sdcard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
